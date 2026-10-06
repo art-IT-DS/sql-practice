@@ -1,0 +1,2 @@
+# sql-practice
+Практика SQL
